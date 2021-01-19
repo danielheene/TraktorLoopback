@@ -2,6 +2,11 @@
 
 > a virtual MacOS audio device based on [BlackHole](https://github.com/ExistentialAudio/BlackHole) with adjusted names and channels
 
+<p align="center">
+    <img alt="screenshot" src="https://raw.githubusercontent.com/danielheene/TraktorLoopback/main/.github/screenshot.png">
+</p>
+
+
 #### Informations:
 
 - All code related informations can be found at the source repository [here](https://github.com/ExistentialAudio/BlackHole).
